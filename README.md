@@ -1,6 +1,6 @@
 # Fake-Virus
 # By The Hack Guy
-For more info watch the video here ->
+For more info watch the video here -> https://youtu.be/KobnlCd12qE
 
 - Just download the template you want
 - open and edit with Notepad or Visual Studio
