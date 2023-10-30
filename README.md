@@ -17,7 +17,7 @@ Here is the code to generate a message box on a Windows computer.
 
 X=MsgBox(“Message Description”,0+16,”Title”)
 
-Type the above code in Notepad and save this notepad on your desktop, Give it some convincing name like “My Computer” and Save the file as .vbs  extension, and select all files instead of *txt.  Like This PC.vbs
+Type the above code in Notepad and save this notepad on your desktop, Give it some convincing name like “My Computer” or “This PC” and Save the file as .vbs  extension, and select all files instead of *txt.  Like This PC.vbs
 
 # Step 2. Understanding the Code
 Now open the saved file and you will a message box 
